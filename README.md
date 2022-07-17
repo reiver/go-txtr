@@ -50,3 +50,4 @@ So, the full list (which adds `XON` & `XOFF`) of **tranmission** **control codes
 | ␖      | Synchronous Idle          |                  | `SYN`        |           | 0x16        | 22      | ^V    | `0b00010110` |
 | ␗      | End of Transmission Block |                  | `ETB`        |           | 0x17        | 23      | ^W    | `0b00010111` |
 
+Some of the Unicode (and ASCII) **tranmission** **control codes** are used by this page (package **txtr**) for its Unicode **text**-based **transmission** protocol.
